@@ -1,2 +1,4 @@
-RAZORPAY_KEY_ID=rzp_test_89g1mV1jcYw8DI
-RAZORPAY_KEY_SECRET=bJPjh2Av0vctSaHaSwIa6kFu
+node_modules/
+.env
+.DS_Store
+*.log
